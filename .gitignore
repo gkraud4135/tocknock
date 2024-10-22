@@ -35,3 +35,5 @@ out/
 
 ### VS Code ###
 .vscode/
+/src/main/resources/firebase/tocknock-7b296-firebase-adminsdk-wtqek-535f844b86.json
+/src/main/resources/application.yml
