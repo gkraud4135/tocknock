@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: tocknock
+
+
+
+fcm :
+  firebase_config_path : firebase/tocknock-7b296-firebase-adminsdk-wtqek-535f844b86.json
